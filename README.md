@@ -1,4 +1,4 @@
-# CIE202 Trading Simulator
+# Trading Simulator
 
 A C++ event-driven trading simulation that models accounts, brokers, orders, stocks, market data, portfolios, wallets, transactions, and backtesting.
 
